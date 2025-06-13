@@ -1,0 +1,7 @@
+flask
+pandas
+konlpy
+pymysql
+sentence-transformers
+bertopic
+pytz
