@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+konlpy
+bertopic
+sentence-transformers
+pandas
+pymysql
+pytz
+fastmcp==0.1.0 # 설치된 FastMCP 버전에 따라 조정
